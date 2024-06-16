@@ -15,7 +15,7 @@ body{
     width: 300px;
     box-shadow: 2px 2px 5px black;
     border-radius: 20px;
-    position: absolute;
+    position: relative;
 }
 .upper_section{
     height: 30%;
@@ -77,8 +77,8 @@ img{
     border: 2px solid #fff;
 }
 .image{
-    position: relative;
-    top: 40%;
+    position: absolute;
+    top: 12%;
     left: 33%;
 }
 .text p{
